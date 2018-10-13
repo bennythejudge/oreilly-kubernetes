@@ -2,6 +2,8 @@
 
 # Kubernetes Training and Cookbook
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/oreilly-kubernetes.svg)](https://www.guardrails.io)
+
 This repository contains instructions and examples for the O'Reilly Live Online Training for [Kubernetes](https://kubernetes.io).
 Dates are listed in the [O'Reilly Live Online](https://www.safaribooksonline.com/live-training/) training schedule.
 
